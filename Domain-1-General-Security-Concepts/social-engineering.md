@@ -2,13 +2,13 @@
 
 Social engineering is the practice of manipulating human behavior, emotions, and trust to gain unauthorized access to systems, data, credentials, or physical locations.
 
-Unlike traditional cyberattacks that target technology, social engineering primarily targets **people**.
+Unlike traditional cyberattacks that primarily target technology, social engineering mainly targets **people**.
 
 ---
 
 ## 1. Psychological Triggers
 
-Social engineers often exploit human psychology to influence decisions and behavior.
+Social engineers commonly exploit human emotions and decision-making patterns.
 
 ---
 
@@ -23,7 +23,7 @@ Examples:
 - Bank representative
 - Government official
 
-### Example Scenario
+### Example
 
 "IT support needs your password immediately to fix your account."
 
@@ -31,23 +31,23 @@ Examples:
 
 ## Urgency
 
-Attackers create pressure that forces the victim to act quickly without verification.
+Attackers create pressure to force quick action without verification.
 
 Examples:
 
-- "Your account will be suspended in 5 minutes."
+- "Your account will be locked in 5 minutes."
 - "Immediate payment required."
 
 ---
 
 ## Social Proof
 
-Attackers convince victims by making them believe others are already participating.
+Attackers make victims believe others have already taken action.
 
 Examples:
 
-- "Everyone in your department has completed this verification."
-- "All employees must update credentials today."
+- "Everyone in your department has completed this update."
+- "All employees must verify credentials today."
 
 ---
 
@@ -58,38 +58,38 @@ Attackers create fear of missing out.
 Examples:
 
 - Limited-time offers
-- Exclusive access links
-- Fake prize opportunities
+- Exclusive access opportunities
+- Fake prize notifications
 
 ---
 
 ## Likability
 
-People are more likely to trust individuals they like or feel connected to.
+People tend to trust individuals they like or feel connected to.
 
 Examples:
 
-- Friendly conversation
+- Friendly conversations
 - Shared interests
-- Fake social media profiles
+- Fake professional relationships
 
 ---
 
 ## Fear
 
-Attackers use threats or consequences to force action.
+Attackers use threats or negative consequences to pressure victims.
 
 Examples:
 
 - Tax fraud warnings
-- Account suspension threats
-- Legal action notices
+- Account suspension alerts
+- Legal action threats
 
 ---
 
 ## Security+ Exam Tip
 
-When a question focuses on emotional manipulation, it is often a social engineering attack.
+If a scenario focuses on emotional manipulation, social engineering is likely involved.
 
 ---
 
@@ -99,34 +99,32 @@ When a question focuses on emotional manipulation, it is often a social engineer
 
 ## Impersonation
 
-An attacker pretends to be another person or trusted entity.
+An attacker pretends to be another trusted person or organization.
 
 Examples:
 
 - IT support staff
 - Company executive
-- Vendor
+- Vendor representative
 - Government employee
-
-### Common Variants
 
 ---
 
 ### Brand Impersonation
 
-Attackers imitate trusted brands to gain trust.
+Attackers imitate trusted brands to gain credibility.
 
-Examples:
+Common targets:
 
-- :contentReference[oaicite:0]{index=0}
-- :contentReference[oaicite:1]{index=1}
-- :contentReference[oaicite:2]{index=2}
+- Microsoft account alerts
+- PayPal payment notifications
+- Amazon delivery messages
 
 ---
 
 ### Typosquatting
 
-Attackers register domain names similar to legitimate websites.
+Attackers register domains that look similar to legitimate websites.
 
 Example:
 
@@ -138,61 +136,61 @@ micros0ft.com instead of microsoft.com
 
 ### Watering Hole Attack
 
-Attackers compromise websites frequently visited by their intended targets.
+Attackers compromise websites frequently visited by their targets.
 
-Example:
+Examples:
 
-Industry forums, vendor portals, or business partner websites.
+- Industry forums
+- Vendor portals
+- Business partner websites
 
 ---
 
 ## Pretexting
 
-An attacker creates a believable fake scenario to gain trust and obtain information.
+An attacker creates a believable fake story to gain trust and collect information.
 
 ### Example
 
-Pretending to be HR and asking an employee to verify personal information.
+Pretending to be HR and requesting employee verification details.
 
 ---
 
 ## 3. Phishing Attacks
 
-Phishing is one of the most common social engineering attacks.
+Phishing is one of the most common social engineering attack methods.
 
 ---
 
 ## Phishing
 
-Mass fraudulent messages sent to many users.
-
-Usually delivered through email.
+Mass fraudulent emails sent to many users.
 
 ---
 
 ## Spear Phishing
 
-Targeted phishing aimed at a specific person or organization.
+Highly targeted phishing attacks aimed at specific individuals or organizations.
 
-Attackers often research the victim first.
+Attackers usually perform reconnaissance first.
 
 ---
 
 ## Whaling
 
-A phishing attack targeting executives or senior leadership.
+Phishing attacks targeting executives or senior leadership.
 
-Targets include:
+Common targets:
 
-- CEOs
-- CFOs
+- CEO
+- CFO
 - Directors
 
 ---
 
 ## Business Email Compromise (BEC)
 
-Attackers compromise or impersonate business email accounts to conduct fraud.
+Attackers compromise or impersonate business email accounts.
 
 Common goals:
 
@@ -204,11 +202,11 @@ Common goals:
 
 ## Vishing
 
-Voice phishing conducted over phone calls.
+Voice phishing performed over phone calls.
 
 Example:
 
-A fake bank employee requesting verification codes.
+Fake bank representatives requesting verification codes.
 
 ---
 
@@ -224,9 +222,9 @@ Example:
 
 ## Security+ Exam Tip
 
-Email = Phishing  
-Voice = Vishing  
-SMS = Smishing
+- Email = Phishing
+- Voice = Vishing
+- SMS = Smishing
 
 ---
 
@@ -240,17 +238,17 @@ Attackers trick victims into providing money or sensitive information.
 
 Attackers send fake invoices requesting payment.
 
-Often used in BEC attacks.
+Often seen in BEC attacks.
 
 ---
 
 ## Identity Fraud
 
-Attackers use stolen personal information for financial or criminal purposes.
+Attackers use stolen personal information for criminal or financial purposes.
 
 Examples:
 
-- Opening accounts
+- Opening bank accounts
 - Loan applications
 - Credit fraud
 
@@ -258,21 +256,21 @@ Examples:
 
 ## 5. Influence Campaigns
 
-Influence campaigns aim to manipulate public opinion, social behavior, or decision-making.
+Influence campaigns aim to manipulate public opinion or behavior.
 
 ---
 
 ## Misinformation
 
-False information shared without malicious intent.
+False information spread without malicious intent.
 
 ---
 
 ## Disinformation
 
-False information deliberately created and distributed to deceive people.
+False information intentionally created to deceive others.
 
-### Common Goals
+Common goals:
 
 - Political influence
 - Economic disruption
@@ -287,7 +285,7 @@ False information deliberately created and distributed to deceive people.
 
 ## Diversion Theft
 
-An attacker distracts a target to steal physical assets or information.
+Attackers distract victims while stealing assets or sensitive information.
 
 ---
 
@@ -309,29 +307,29 @@ Examples:
 
 - Passwords
 - PIN codes
-- Access badges
+- Badge access codes
 
 ---
 
 ## Dumpster Diving
 
-Searching discarded materials for sensitive information.
+Searching discarded materials for valuable information.
 
 Examples:
 
 - Printed reports
-- Credentials
+- Password notes
 - Network diagrams
 
 ---
 
 ## Eavesdropping
 
-Secretly listening to conversations to gather information.
+Secretly listening to conversations to collect information.
 
 Examples:
 
-- Public phone calls
+- Phone calls
 - Office meetings
 - Video conferences
 
@@ -350,7 +348,7 @@ Examples:
 
 ## Piggybacking
 
-An attacker gains physical access with the permission of an authorized person.
+An attacker gains access with the permission of an authorized user.
 
 Example:
 
@@ -360,20 +358,20 @@ Example:
 
 ## Tailgating
 
-An attacker secretly follows an authorized person into a secure area without permission.
+An attacker secretly follows an authorized user into a restricted area.
 
-### Security+ Exam Tip
+---
 
-Piggybacking = Victim is aware  
-Tailgating = Victim is unaware
+## Security+ Exam Tip
+
+Piggybacking = Authorized person is aware  
+Tailgating = Authorized person is unaware
 
 ---
 
 ## Defense Against Social Engineering
 
-The most effective defense is security awareness and user education.
-
-Common protections include:
+The most effective defense includes:
 
 - Security awareness training
 - Email filtering
@@ -388,5 +386,5 @@ Common protections include:
 
 - Social engineering targets people rather than technology.
 - Attackers commonly exploit trust, fear, urgency, and authority.
-- Phishing remains one of the most common attack methods.
-- Security awareness training is the strongest defense.
+- Phishing is one of the most common attack methods.
+- Security awareness training is one of the strongest defenses.
