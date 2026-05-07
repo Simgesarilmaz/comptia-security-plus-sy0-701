@@ -64,7 +64,7 @@ Governance, compliance, auditing, access management, and security controls.
 ---
 ## 🚀 Interactive Resources
 
-- [Security+ Interactive Cheatsheet](https://simgesarilmaz.github.io/comptia-security-plus-sy0-701/Cheat-Sheets/security-plus-cheatsheet.html)
+- [Security+ Cheatsheet](https://simgesarilmaz.github.io/comptia-security-plus-sy0-701/Cheat-Sheets/security-plus-cheatsheet.html)
 
 ## 🎯 Objectives
 
