@@ -62,6 +62,9 @@ Governance, compliance, auditing, access management, and security controls.
 - [Identity and Access Management (IAM)](./Domain-5-Security-Program-Management-and-Oversight/iam-solutions.md)
 
 ---
+## 🚀 Interactive Resources
+
+- [Security+ Interactive Cheatsheet](https://simgesarilmaz.github.io/comptia-security-plus-sy0-701/Cheat-Sheets/security-plus-cheatsheet.html)
 
 ## 🎯 Objectives
 
